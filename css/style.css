@@ -1,3 +1,14 @@
 body{
 	background-color: red;
 } 
+
+h1{
+	font-size: 40px;
+}
+body div{
+	font-size: 30px;
+}
+
+p{
+	font-size: 20px;
+}
